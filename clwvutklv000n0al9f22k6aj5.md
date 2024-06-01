@@ -18,7 +18,7 @@ Much of the world right now uses Windows as its primary Operating System. This i
 
 ### Linux is Open Source
 
-### It means anyone around the globe (ok, I stand corrected, even from outerspace) can view and modify the source code. You can contribute to the development of your OS if you'd like to. If you do not like to do so? even then, the source code being open, should increase your confidence in using it. And it's **FREE.**
+It means anyone around the globe (ok, I stand corrected, even from outerspace) can view and modify the source code. You can contribute to the development of your OS if you'd like to. If you do not like to do so? even then, the source code being open, should increase your confidence in using it. And it's **FREE.**
 
 ### Customization
 
