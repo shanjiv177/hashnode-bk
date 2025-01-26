@@ -6,7 +6,6 @@ datePublished: Sun Jan 26 2025 14:30:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm6dpv9fy000d09jo2o6b6eep
 slug: installing-and-configuring-mwan3-in-openwrt-for-failover
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737902438408/66ce9e8f-fc3b-4aa0-b138-777f6cfcdec6.webp
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737902393734/f9557141-57da-4fd6-86bc-d37e14d83b4c.webp
 tags: networking, routers, openwrt, mwan3
 
 ---
